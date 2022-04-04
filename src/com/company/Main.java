@@ -9,5 +9,6 @@ public class Main {
         int x = scanner.nextInt();
         System.out.println(Integer.toBinaryString(x));
         System.out.println(Integer.toHexString(x));
+        System.out.println();
     }
 }
